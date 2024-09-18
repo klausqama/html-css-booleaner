@@ -1,0 +1,26 @@
+.main-header{
+    background-color: rgb(77, 160, 264);
+    background-image: url(img.tim/pattern.png);
+    background-size: 200px auto;
+    padding-top: 30px;
+    padding-left: 10px;
+    
+}
+.logo{
+    height: 60px;
+}
+.main-header{
+    font-size: 2rem;
+}
+.main-title{
+    font-size: 50px;
+}
+.article-metadate{
+    color: gray;
+}
+.article-name{
+    color: rgb(77, 160, 264);
+}
+.article-metadate .article-date {
+    font-size: 10px;
+}
