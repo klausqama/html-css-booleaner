@@ -1,3 +1,6 @@
+body{
+    margin: 0%;
+}
 .main-header{
     background-color: rgb(77, 160, 264);
     background-image: url(img.tim/pattern.png);
@@ -23,4 +26,9 @@
 }
 .article-metadate .article-date {
     font-size: 10px;
+}
+figure{
+    margin: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
 }
