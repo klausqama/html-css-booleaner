@@ -34,5 +34,21 @@ figure{
 }
 
 .bg-blu{
-    background-color: blue;
+    background-color: rgb(103, 103, 213);
+}
+.bg-azure{
+    background-color:rgb(43, 231, 231);
+}
+table th {
+    text-align: left;
+    white-space: nowrap;    
+}
+table {
+    width: 100%;
+}
+.w-25{
+    width: 25;
+}
+.w-50{
+    width: 50;
 }
